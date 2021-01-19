@@ -1,3 +1,3 @@
-# gulpproject
+# golden-pulp-project
 
 Have fun!
